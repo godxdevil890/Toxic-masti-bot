@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: devil-server
+    name: c3c-server
     env: node
     plan: free
     buildCommand: "npm install"
     startCommand: "npm start"
-    branch: main
+    nodeVersion: "18.17.0"
