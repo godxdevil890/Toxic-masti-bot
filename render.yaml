@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: c3c-server
-    env: node
-    plan: free
-    buildCommand: "npm install"
-    startCommand: "npm start"
-    nodeVersion: "18.17.0"
