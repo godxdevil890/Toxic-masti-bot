@@ -1,8 +1,5 @@
-{
-  "EMAIL": "botmei312@gmail.com",
-  "PASSWORD": "13072001@Tt",
-  "OTPKEY": "",
-  "cookie": {
+[
+    {
         "key": "dbln",
         "value": "%7B%2261568686785737%22%3A%22naCtz7nz%22%7D",
         "domain": "facebook.com",
@@ -137,5 +134,4 @@
         "creation": "2025-08-24T09:04:57.120Z",
         "lastAccessed": "2025-08-24T09:04:57.120Z"
     }
-  ]
-}
+]
